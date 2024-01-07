@@ -1,0 +1,13 @@
+3
+5000.00
+deposit
+5 1 2024
+Allowance
+15.00
+deposit
+5 1 2024
+charge the account
+10.00
+payment
+6 1 2024
+coffe

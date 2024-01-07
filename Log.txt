@@ -1,0 +1,96 @@
+[Sun Dec 10 18:44:08 2023]   John tried to login.
+[Sun Dec 10 19:27:35 2023]   admin tried to login.
+[Sun Dec 10 20:06:11 2023]    generated a report for 6946168 in Main account.
+[Sun Dec 10 20:06:16 2023]    closed the program.
+[Sun Dec 10 20:08:14 2023]    generated a report for 6946176 in Main account.
+[Sun Dec 10 20:08:16 2023]    closed the program.
+[Sun Dec 10 20:15:03 2023]    generated a report for 1111 in Main account.
+[Sun Dec 10 20:15:06 2023]    closed the program.
+[Sun Dec 10 20:15:26 2023]    generated a report for 2005 in Main account.
+[Sun Dec 10 20:15:28 2023]    closed the program.
+[Sun Dec 10 20:37:21 2023]    generated a report for 2023 in Main account.
+[Sun Dec 10 20:37:22 2023]    closed the program.
+[Sun Dec 10 20:38:50 2023]    removed transaction 15 in Main account.
+[Sun Dec 10 20:38:52 2023]    closed the program.
+[Sun Dec 10 20:39:33 2023]    closed the program.
+[Sun Dec 10 21:02:16 2023]    closed the program.
+[Sun Dec 10 21:04:06 2023]    closed the program.
+[Sun Dec 10 21:04:29 2023]    closed the program.
+[Sun Dec 10 21:04:36 2023]    closed the program.
+[Sun Dec 10 21:04:37 2023]    closed the program.
+[Sun Dec 10 21:06:06 2023]    closed the program.
+[Sun Dec 10 21:06:09 2023]    closed the program.
+[Sun Dec 10 21:06:10 2023]    closed the program.
+[Sun Dec 10 21:07:34 2023]    generated a report for 2023 in Main account.
+[Sun Dec 10 21:07:51 2023]    closed the program.
+[Sun Dec 10 21:10:38 2023]    closed the program.
+[Sun Dec 10 21:10:40 2023]    closed the program.
+[Sun Dec 10 21:11:07 2023]    closed the program.
+[Sun Dec 24 13:29:17 2023]    added transaction 16 in Main account.
+[Sun Dec 24 13:29:25 2023]    removed transaction 15 in Main account.
+[Sun Dec 24 13:29:37 2023]    closed the program.
+[Sun Dec 24 13:30:22 2023]   admin logged in.
+[Sun Dec 24 13:30:26 2023]   admin closed the program.
+[Sun Dec 24 13:30:26 2023]   admin closed the program.
+[Sun Dec 24 13:30:34 2023]   ab tried to login.
+[Sun Dec 24 13:30:39 2023]   ab closed the program.
+[Sun Dec 24 13:31:57 2023]    closed the program.
+[Sat Dec 30 13:08:58 2023]    generated a report for 2023 in Main account.
+[Sat Dec 30 13:09:09 2023]    calculated the balance in Main account.
+[Sat Dec 30 13:09:44 2023]    closed the program.
+[Sat Dec 30 13:44:35 2023]    removed transaction 4 in Main account.
+[Sat Dec 30 13:44:49 2023]    added transaction 16 in Main account.
+[Sat Dec 30 13:44:55 2023]    removed transaction 15 in Main account.
+[Sat Dec 30 13:44:58 2023]    closed the program.
+[Fri Jan 05 18:56:17 2024]   ion tried to login.
+[Fri Jan 05 18:56:24 2024]   ion closed the program.
+[Fri Jan 05 18:56:32 2024]   admin logged in.
+[Fri Jan 05 18:56:37 2024]   admin closed the program.
+[Fri Jan 05 18:56:38 2024]   admin closed the program.
+[Fri Jan 05 19:46:42 2024]    closed the program.
+[Fri Jan 05 20:15:07 2024]    removed transaction 1 in Savings account.
+[Fri Jan 05 20:15:10 2024]    closed the program.
+[Fri Jan 05 20:15:55 2024]    removed transaction 2 in Savings account.
+[Fri Jan 05 20:15:56 2024]    closed the program.
+[Fri Jan 05 20:16:10 2024]    closed the program.
+[Fri Jan 05 20:16:29 2024]    closed the program.
+[Fri Jan 05 20:33:49 2024]    closed the program.
+[Fri Jan 05 20:34:56 2024]    modified transaction -1 in Main account.
+[Fri Jan 05 20:35:03 2024]    closed the program.
+[Fri Jan 05 20:36:33 2024]    added transaction 4 in Main account.
+[Fri Jan 05 20:36:37 2024]    closed the program.
+[Fri Jan 05 20:36:59 2024]    closed the program.
+[Fri Jan 05 20:44:09 2024]    removed transaction 7 in Main account.
+[Fri Jan 05 20:44:11 2024]    closed the program.
+[Fri Jan 05 20:46:40 2024]    closed the program.
+[Fri Jan 05 20:49:43 2024]    closed the program.
+[Fri Jan 05 20:50:43 2024]    closed the program.
+[Fri Jan 05 20:51:52 2024]    closed the program.
+[Fri Jan 05 20:59:35 2024]    closed the program.
+[Fri Jan 05 21:51:36 2024]    closed the program.
+[Fri Jan 05 21:55:26 2024]    closed the program.
+[Fri Jan 05 21:56:01 2024]    closed the program.
+[Fri Jan 05 21:57:38 2024]    closed the program.
+[Fri Jan 05 21:57:49 2024]    closed the program.
+[Fri Jan 05 22:02:04 2024]    closed the program.
+[Fri Jan 05 22:53:07 2024]    closed the program.
+[Fri Jan 05 22:53:40 2024]    closed the program.
+[Fri Jan 05 22:54:58 2024]    closed the program.
+[Fri Jan 05 22:55:16 2024]    closed the program.
+[Fri Jan 05 23:00:18 2024]    added transaction 1 in Credit account.
+[Fri Jan 05 23:00:28 2024]    calculated the balance in Credit account.
+[Fri Jan 05 23:00:54 2024]    added transaction 2 in Credit account.
+[Fri Jan 05 23:01:25 2024]    added transaction 3 in Credit account.
+[Fri Jan 05 23:01:33 2024]    closed the program.
+[Fri Jan 05 23:47:34 2024]    closed the program.
+[Sun Jan 07 17:19:44 2024]   admin logged in.
+[Sun Jan 07 17:20:04 2024]   admin logged in.
+[Sun Jan 07 17:20:53 2024]   admin logged in.
+[Sun Jan 07 17:21:02 2024]   ion tried to login.
+[Sun Jan 07 17:22:04 2024]   admin logged in.
+[Sun Jan 07 17:23:05 2024]   io tried to login.
+[Sun Jan 07 17:23:11 2024]   admin logged in.
+[Sun Jan 07 17:23:23 2024]   admin closed the program.
+[Sun Jan 07 17:24:14 2024]   Mihai logged in.
+[Sun Jan 07 17:24:19 2024]   Mihai generated a report for 2023 in Main account.
+[Sun Jan 07 17:24:23 2024]   Mihai closed the program.
